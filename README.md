@@ -1,23 +1,27 @@
-<h1>EasyWeather</h1>
+## <h1>EasyWeather: A Simple Weather App</h1>
 
-<p>EasyWeather, is a simple Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.</p>
+<p>EasyWeather is a lightweight weather application crafted with HTML, CSS, and JavaScript, designed to provide users with quick and straightforward access to current weather conditions. Leveraging the power of APIs, the app seamlessly fetches real-time weather and geolocation information, ensuring users stay informed about their local weather with ease.</p>
 
-<h3>Used Technologies</h3>
+## Used Technologies
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
 </ul>
 
-<h3>Used APIs</h4>
+## Used APIs
 <ul>
-  <li>Open Weather API</li>
- <li>Unsplash API</li>
+  <li>Open Weather API: Fetches real-time weather data.</li>
+ <li>Unsplash API:  Provides dynamic background images.</li>
 </ul>
 
-<h3> ScreenShots </h3>  
-<img src = "Weather-App.jpg" alt="Sample Image">
-<br>
-<video controls autoplay>
-  <source src="sample.mp4" type="video/mp4">
-</video>
+## ScreenShots 
+<img src = "home.png" alt="Sample Image">
+
+## Contact
+
+- **Email**: abhiramlaha2020@gmail.com
+- **LinkedIn**: (https://www.linkedin.com/in/abhiramlaha/)
+- **Twitter**: (https://twitter.com/LahaAbhiram)
+
+Feel free to reach out if you have any questions or just want to connect!
