@@ -16,7 +16,8 @@
 </ul>
 
 ## ScreenShots 
-<img src = "home.png" alt="Sample Image">
+![image](https://github.com/user-attachments/assets/ad734db0-6755-43b8-9c0f-dee960ca9dc3)
+
 
 ## Contact
 
